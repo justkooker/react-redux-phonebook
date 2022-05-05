@@ -1,6 +1,4 @@
-import React, { Component } from 'react';
-import { useDispatch } from 'react-redux';
-import propTypes from 'prop-types';
+import React from 'react';
 import ContactForm from './components/ContactForm';
 import ContactList from './components/ContactList';
 import Filter from './components/Filter';
